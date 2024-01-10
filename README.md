@@ -1,5 +1,3 @@
-<div width="100%" align="center">
-
 # Daniela Sanvicente
 
 Electrical-electronic engineer ([UNAM](https://en.wikipedia.org/wiki/National_Autonomous_University_of_Mexico)) turned software engineer.
@@ -11,5 +9,3 @@ Electrical-electronic engineer ([UNAM](https://en.wikipedia.org/wiki/National_Au
 
 [![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,postgres,git,postman,matlab,c,js,html,css,nodejs,arduino)](https://skillicons.dev)
 ---
-
-</div>
