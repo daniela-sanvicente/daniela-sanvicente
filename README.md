@@ -1,16 +1,15 @@
-### Hi there 👋
+# Daniela Sanvicente
 
-<!--
-**daniela-sanvicente/daniela-sanvicente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical-electronic engineer ([UNAM](https://en.wikipedia.org/wiki/National_Autonomous_University_of_Mexico)) turned software engineer.
 
-Here are some ideas to get you started:
+<div width="100%" align="center">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/Daniela%20Sanvicente-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniela-sanvicente)](https://www.linkedin.com/in/daniela-sanvicente)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+#### Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=java,idea,mysql,mariadb,postgres,git,postman,matlab,c,js,html,css,nodejs,arduino)](https://skillicons.dev)
+---
